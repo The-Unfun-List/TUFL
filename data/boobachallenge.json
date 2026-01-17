@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-
+        {
+            "user": "Maple",
+            "link": "https://medal.tv/games/geometry-dash/clips/lVDboEYqIl7klti0M?invite=cr-MSxGSDMsMzEwODczMDUy&v=39",
+            "percent": "100",
+            "hz": "240"
+        }
     ]
 }
